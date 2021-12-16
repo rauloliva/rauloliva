@@ -8,7 +8,7 @@
   * PHP
   * Python
   * SQL / No-SQL
-- I’m currently working on self projects with Node and react learning Vue.js
+- I’m currently working on self projects with various tools and technologies
 - How to reach me:
   * [Linkedin](https://www.linkedin.com/in/raul-oliva-27208817b/)
   * [GitHub](http://github.com/rauloliva)
