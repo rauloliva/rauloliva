@@ -1,4 +1,4 @@
-I am Raul Adrian Oliva Castillo, a Software Engineer with over 6 years of experience designing and implementing robust, scalable solutions.
+I am Raul Adrian Oliva Castillo, a Software Engineer with over 6 years of professional experience designing and implementing robust, scalable solutions.
 
 My expertise includes developing high-performance web applications, web scraping, ETL pipelines, and impactful APIs. I am highly proficient in Java, Python, JavaScript, and Spring Boot, with a strong background in data mining, automation using Selenium, and deploying solutions in Dockerized Linux environments.
 
