@@ -1,18 +1,8 @@
-# 👋 Hi, I’m Raul Oliva
-- I'm a full-stack Software developer
-- I’m interested in programming, reading books of any topic, playing soccer
-- The programming language that I like to use the most is **Javascript**
-- The programming languages in which I have more experience are: 
-  * Java
-  * Javascript / Html / CSS
-  * PHP
-  * Python
-  * SQL / No-SQL
-- I’m currently working on self projects with various tools and technologies
-- How to reach me:
-  * [Linkedin](https://www.linkedin.com/in/raul-oliva-27208817b/)
-  * [GitHub](http://github.com/rauloliva)
-  * [Mail](mailto:oliva.raul12@gmail.com)
+I am Raul Adrian Oliva Castillo, a Software Engineer with over 6 years of experience designing and implementing robust, scalable solutions.
+
+My expertise includes developing high-performance web applications, web scraping, ETL pipelines, and impactful APIs. I am highly proficient in Java, Python, JavaScript, and Spring Boot, with a strong background in data mining, automation using Selenium, and deploying solutions in Dockerized Linux environments.
+
+I am committed to continuous professional growth, collaborating effectively with cross-functional teams, and leveraging innovative technologies to drive business value and maintain a competitive edge.
 
 ## My Github Stats
 
