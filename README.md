@@ -6,5 +6,8 @@ I am committed to continuous professional growth, collaborating effectively with
 
 ## My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliva&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rauloliva&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rauloliva&theme=merko)](https://git.io/streak-stats)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rauloliva&theme=merko&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauloliva&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rauloliva&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
