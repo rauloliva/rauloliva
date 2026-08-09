@@ -1,6 +1,6 @@
 I am Raul Adrian Oliva Castillo, a versatile Software Engineer with over 7 years of full-stack expertise spanning modern frontend interfaces and resilient backend architectures.
 
-Specializing in Java, React, Next.js, Python, and Spring Boot, I bring extensive experience in API design, ETL pipelines, web scraping, and automated data mining with Selenium. Proven in orchestrating Dockerized Linux environments, I build scalable microservices and high-availability web applications that drive real business value.
+Specializing in translating design intent into production-ready UI components and building modern, intuitive, and responsive interfaces. Proficient in JavaScript, React, and Next.js, backed by resilient backend architectures using Java, Node.js, Python, and Spring Boot, and experienced in API design and orchestrating Dockerized Linux environments to build scalable, high-availability applications that drive real business value.
 
 I am committed to continuous professional growth, collaborating effectively with cross-functional teams, and leveraging innovative technologies to drive business value and maintain a competitive edge.
 
